@@ -1,0 +1,66 @@
+{
+  "theme": "brown",
+  "background": {
+    "one": "https://i.pinimg.com/originals/e6/ff/68/e6ff68863aca67c60be229ac8452a714.jpg",
+    "two": "https://i.pinimg.com/originals/4a/65/c3/4a65c3a8dbb8c999a19e3c68983ed4c7.jpg"
+  },
+  "groom": {
+    "name": "Handon Suhendran",
+    "nickname": "Handon",
+    "initial": "H",
+    "father": "Sujiarto Ari",
+    "mother": "Dartini"
+  },
+  "bride": {
+    "name": "Allisya Rachma Septiani",
+    "nickname": "Icha",
+    "initial": "I",
+    "father": "Asep Mulyana",
+    "mother": "Sari"
+  },
+  "address": "Jln Kiputih bawah RT 09 RW 05 Ciumbuleuit",
+  "map_url": "https://maps.app.goo.gl/bsskPqsFz3ihdjgLA",
+  "date": {
+    "full_date": "14 Januari 2024",
+    "day_text": "Minggu",
+    "day": 14,
+    "month": 1,
+    "month_text": "Januari",
+    "year": 2024,
+    "countdown_time": "2024-01-14T08:00:00+07:00",
+    "akad_time": "08:00 - 10.00",
+    "resepsi_time": "10:00 - Selesai"
+  },
+  "show_bank": false,
+  "show_gallery": true,
+  "images": [
+    "/foto/1.jpeg",
+    "/foto/3.jpeg",
+    "/foto/4.jpeg",
+    "/foto/5.jpeg",
+    "/foto/6.jpeg",
+    "/foto/8.jpeg",
+    "/foto/9.jpeg",
+    "/foto/10.jpeg"
+  ],
+  "photos": [
+    "/foto/10.jpeg",
+    "/foto/9.jpeg",
+    "/foto/8.jpeg",
+    "/foto/7.jpeg",
+    "/foto/6.jpeg",
+    "/foto/5.jpeg",
+    "/foto/4.jpeg",
+    "/foto/3.jpeg",
+    "/foto/2.jpeg",
+    "/foto/1.jpeg"
+  ],
+  "bank_accounts": {
+    "account_no1": "",
+    "account_name1": "",
+    "account_provider1": "",
+    "account_no2": "",
+    "account_name2": "",
+    "account_provider2": ""
+  }
+}
